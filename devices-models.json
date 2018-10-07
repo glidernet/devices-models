@@ -1,7 +1,7 @@
 { "Devices Models": {
-    "Manufacturer": {
+    "Device type": {
       "Flarm": [
-        { "Distributor": "LX Navigation", "Model Id": 12, "Model name": "Red box" }
+        { "Manufacturer": "LX Navigation", "Model Id": 12, "Model name": "Red box" }
       ]
     }
   }
