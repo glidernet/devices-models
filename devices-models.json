@@ -1,7 +1,12 @@
 { "Devices Models": {
     "Device type": {
       "Flarm": [
-        { "Manufacturer": "LX Navigation", "Model Id": 12, "Model name": "Red box" }
+        { "Manufacturer": "Flarm", "Model Id": 3, "Model name": "Classic F6" },
+        { "Manufacturer": "LX Navigation", "Model Id": 10, "Model name": "Minibox / LX7007" },
+        { "Manufacturer": "LX Navigation", "Model Id": 11, "Model name": "Red box" },
+        { "Manufacturer": "LX Navigation", "Model Id": 12, "Model name": "Red box" },
+        { "Manufacturer": "LX Nav", "Model Id": 16, "Model name": "LX8000 / LX9000" },
+        { "Manufacturer": "LX Nav", "Model Id": 214, "Model name": "Minimouse" }
       ]
     }
   }
