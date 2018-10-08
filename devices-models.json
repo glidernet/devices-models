@@ -6,6 +6,7 @@
         { "Manufacturer": "LX Navigation", "Model Id": 11, "Model name": "Red box" },
         { "Manufacturer": "LX Navigation", "Model Id": 12, "Model name": "Red box" },
         { "Manufacturer": "LX Nav", "Model Id": 16, "Model name": "LX8000 / LX9000" },
+        { "Manufacturer": "AIR Avionics", "Model Id": 50, "Model name": "TRX-1500" },
         { "Manufacturer": "LX Nav", "Model Id": 214, "Model name": "Minimouse" }
       ]
     }
